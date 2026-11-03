@@ -1,9 +1,3 @@
-"""
-PYTHON BASICS CLASS — CODE SUMMARY
-Full theory and explanations in: README.md
-Run: python3 basic_python_class.py
-"""
-
 # 1. VARIABLES, TIPOS Y CONVERSIÓN
 name = "Ana"            # str (texto)
 age = 25                # int (entero)
