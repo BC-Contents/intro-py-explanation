@@ -1,6 +1,6 @@
 # Clase Básica de Python: Guía y Ejemplos Prácticos
 
-Bienvenido a la guía introductoria de Python. Este documento reúne todas las explicaciones teóricas, sintaxis y buenas prácticas correspondientes a la clase básica, sirviendo como manual de referencia para el archivo de código ejecutable [`clase_basica_python.py`](./clase_basica_python.py).
+Bienvenido a la guía introductoria de Python. Este documento reúne todas las explicaciones teóricas, sintaxis y buenas prácticas correspondientes a la clase básica, sirviendo como manual de referencia para el archivo de código ejecutable [`basic_python_class.py`](./basic_python_class.py).
 
 ---
 
@@ -9,7 +9,7 @@ Bienvenido a la guía introductoria de Python. Este documento reúne todas las e
 Para ejecutar el archivo con todos los ejemplos prácticos en la terminal:
 
 ```bash
-python3 clase_basica_python.py
+python3 basic_python_class.py
 ```
 
 ---
@@ -247,7 +247,7 @@ def calcular_area_rectangulo(base, altura=1.0):
 
 ## 7. Proyecto Práctico Integrador
 
-En la sección final de [`clase_basica_python.py`](./clase_basica_python.py), se implementa un **Gestor de Alumnos y Calificaciones** que unifica todos los conceptos:
+En la sección final de [`basic_python_class.py`](./basic_python_class.py), se implementa un **Gestor de Alumnos y Calificaciones** que unifica todos los conceptos:
 - Modelado de cada alumno mediante **diccionarios**.
 - Colección de registros almacenada en una **lista**.
 - **Funciones** para dar de alta alumnos, mostrar listados tabulares y calcular métricas grupales (media de notas, % de aprobados y suspensos).
